@@ -1,17 +1,18 @@
-# Frontend Mentor - Social links profile solution
+# Frontend Mentor - recipe-page-main
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [recipe-page-main on Frontend Mentor]. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### Screenshot
-
+### Preview on screen 375px
 ![preview_screen_375px](./preview375px.png)
+
+### Preview on screen 1440px
 ![preview_screen_1440px](./preview1440px.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/handipo2022/social-links-profile-main](https://github.com/handipo2022/social-links-profile-main)
-- Live Site URL: [https://handipo2022.github.io/social-links-profile-main/](https://handipo2022.github.io/social-links-profile-main/)
+- Solution URL: [https://github.com/handipo2022/recipe-page-main](https://github.com/handipo2022/recipe-page-main)
+- Live Site URL: [https://handipo2022.github.io/recipe-page-main/](https://handipo2022.github.io/recipe-page-main/)
 
 ### Built with
 
