@@ -4,7 +4,9 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![preview](./preview.jpeg)
+![preview_screen_375px](./preview375px.png)
+![preview_screen_1440px](./preview1440px.png)
+
 
 ### Links
 
